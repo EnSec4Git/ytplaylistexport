@@ -17,5 +17,6 @@ setup(name='YTPlaylist',
       description='A little script to extract playlists from youtube.',
       author='Yavor Papazov',
       author_email='yavorpap@abv.bg',
-      packages=['ytplaylist']
-     )
+      packages=['ytplaylist'],
+      install_requires=["httplib2", "google-api-python-client"]
+)
