@@ -34,6 +34,10 @@ nosetests.xml
 .project
 .pydevproject
 
+# PyCharm
+.idea
+
 # Project-specific files
 ytplaylist/client_secrets.json
 ytplaylist/oauth2.json
+ytplaylist/api_key.txt

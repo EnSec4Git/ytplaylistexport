@@ -17,6 +17,5 @@ setup(name='YTPlaylist',
       description='A little script to extract playlists from youtube.',
       author='Yavor Papazov',
       author_email='yavorpap@abv.bg',
-      packages=['snake', 'snake.tests'],
-      test_suite="tests"
+      packages=['ytplaylist']
      )
