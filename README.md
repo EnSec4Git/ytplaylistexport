@@ -22,9 +22,9 @@ Example usage:
 
         ./main.py -u username -l
 
-* Export particular playlist
+* Export particular playlist (titled TestPlaylist)
 	
-        ./main.py -u username -e playlist.pls TestPlaylist
+        ./main.py -u username -e playlist.pls -t TestPlaylist
 	
 * Run the GUI
 	
