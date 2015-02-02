@@ -8,3 +8,5 @@ def check_is_file_valid(fname):
         return True
     except OSError:
         return False
+    except IOError:
+        return False
