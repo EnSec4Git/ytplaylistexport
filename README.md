@@ -42,5 +42,7 @@ authentication.
 
 Installation
 --------
-The library can be installed as customary in Go:   
-`go get github.com/yavorpap/gonumeth`.
+Standard Python installation should work:
+
+	python setup.py install
+	
