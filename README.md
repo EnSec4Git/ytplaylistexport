@@ -20,19 +20,19 @@ Example usage:
 
 * List "username"'s playlists
 
-	./main.py -u username -l
+        ./main.py -u username -l
 
 * Export particular playlist
 	
-	./main.py -u username -e playlist.pls TestPlaylist
+        ./main.py -u username -e playlist.pls TestPlaylist
 	
 * Run the GUI
 	
-	./main.py
+        ./main.py
 	
 * Run the console UI
 	
-	./main.py -c
+        ./main.py -c
 
 Dependencies
 --------
