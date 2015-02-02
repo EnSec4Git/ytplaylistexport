@@ -18,19 +18,19 @@ Usage
 --------
 Example usage:
 
-	> List "username"'s playlists
+* List "username"'s playlists
 
 	./main.py -u username -l
 
-	> Export particular playlist
+* Export particular playlist
 	
 	./main.py -u username -e playlist.pls TestPlaylist
 	
-	> Run the GUI
+* Run the GUI
 	
 	./main.py
 	
-	> Run the console UI
+* Run the console UI
 	
 	./main.py -c
 
